@@ -1,2 +1,2 @@
 # Templates-J2EE
-Basic J2EE web dev templates 
+This repository contains the basic Web Develeopment Templates.
