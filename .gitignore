@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# Java files
+src/com/templates/db/DBConnection.java
+
 # Log file
 *.log
 
