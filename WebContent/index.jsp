@@ -30,6 +30,9 @@
 
     <div class="col-sm-9">
       <div class="jumbotron">
+         <a class="text-muted" href="users.jsp">Insert Data</a><br/>
+         <a class="text-muted" href="Image.jsp">Image Insertion</a><br/>
+         <a class="text-muted" href="imageDisplay.jsp">Image Display</a><br/>
        </div>
     </div>
   </div>
