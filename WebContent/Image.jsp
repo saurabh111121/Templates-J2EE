@@ -35,9 +35,12 @@
 									for="customFile" style="cursor: pointer;">Choose photo</label>
 							</div>
 						</div>
-
-						<button class="btn btn-success" id="submit_btn">Upload</button>
+                        <div class="text-center">
+                        <button class="btn btn-success" id="submit_btn">Upload</button>
+                        </div>
+						
 					</form>
+					<div class="text-center"><a href="imageDisplay.jsp" class="text-muted">Image Display</a></div>
 				</div>
 
 			</div>
